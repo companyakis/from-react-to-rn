@@ -1,2 +1,3 @@
-# react-basics
-React Basics
+# React Basics
+
+Why React? For web3/DeFi projects...
