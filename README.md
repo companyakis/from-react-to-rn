@@ -1,3 +1,2 @@
-# React Basics
+# React and MUI
 
-Why React? For web3/DeFi projects...
