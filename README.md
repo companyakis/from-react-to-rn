@@ -1,2 +1,2 @@
-# React Web3
+# React, Solidity, Rust => Web3
 
