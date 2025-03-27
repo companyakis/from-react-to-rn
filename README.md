@@ -1,2 +1,2 @@
-# React & Rust => Web3
+# React & Web3
 
