@@ -1,0 +1,32 @@
+body {
+
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+
+    border: 1px solid rgb(68, 90, 211);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button {
+  
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(68, 90, 211);
+    font-size: 15px;
+    color: white;
+}
+
+h3 {
+  
+    color: rgb(68, 90, 211);
+}
