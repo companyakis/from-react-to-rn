@@ -1,0 +1,35 @@
+div {
+    width: 500px;
+    height: 500px;
+    border: 1px solid blue;
+    border-radius: 10px;
+    margin: 30px auto;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+h1 {
+    border: 1px solid green;
+    width: 200px;
+    text-align: center;
+    border-radius: 5px;
+    color: blue;
+    margin: 15px auto;
+    padding: 5px;
+}
+
+h2 {
+    text-align: center;
+    width: 400px;
+    border: 1px solid green;
+    margin: 10px auto;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 25px;
+    padding: 5px;
+    text-align: center;
+}
