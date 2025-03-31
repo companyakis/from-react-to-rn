@@ -1,0 +1,15 @@
+div {
+    width: 500px;
+    height: 300px;
+    margin-bottom: 30px;
+}
+
+.div1 {
+    background-color: blue;
+    position: static; 
+    /* static is default! */
+}
+
+.div2 {
+    background-color: green;
+}
