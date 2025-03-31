@@ -1,0 +1,17 @@
+div {
+    width: 500px;
+    height: 300px;
+    border: 1px solid gray;
+    margin-bottom: 30px;
+}
+
+.div1 {
+    background-color: blue;
+}
+
+.div2 {
+    background-color: green;
+    position: relative;
+    top: -80px;
+    right: -40px;
+}
