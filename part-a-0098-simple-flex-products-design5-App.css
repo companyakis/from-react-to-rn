@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  width: 100%;
+  height: 60px;
+  background-color: rgb(89, 89, 243);
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.products-container {
+  width: 1200px;
+  height: 800px;
+  border: 1px solid rgb(89, 89, 243);
+  border-radius: 10px;
+  margin: 50px auto;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  
+}
+
+.product-item {
+
+  width: 150px;
+  height: 300px;
+  border: 1px solid rgb(89, 89, 243);
+  border-radius: 5px;
+  padding: 5px 10px;
+  text-align: center;
+
+}
